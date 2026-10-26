@@ -106,3 +106,7 @@ Please see [CONTRIBUTING.md][contributing].
 [bulletproofs-crate]: https://crates.io/crates/bulletproofs
 [criterion-crate]: https://crates.io/crates/criterion
 [contributing]: https://github.com/cargodog/arcturus/blob/master/CONTRIBUTING.md
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0 or later](LICENSE) (`GPL-3.0-or-later`).

@@ -42,11 +42,11 @@ harness = false
 [package]
 name = "arcturus"
 version = "0.4.0"
+license = "GPL-3.0-or-later"
 authors = ["cargodog <cargodog@protonmail.com>"]
 edition = "2018"
 description = "Implementation of Arcturus zero-knowledge proofs for confidential transactions."
 readme = "README.md"
-license-file = "LICENSE"
 repository = "https://github.com/cargodog/arcturus"
 keywords = ["cryptography", "crypto", "zero-knowledge", "zk", "no-std"]
 categories = ["cryptography", "no-std"]
